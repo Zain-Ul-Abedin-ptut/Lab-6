@@ -6,3 +6,4 @@ List<string> groceries = new List<string>();
         groceries.Add("Eggs");
         groceries.Add("Apples");
         groceries.Add("Rice");
+        groceries.Add("Soap");
