@@ -1,0 +1,8 @@
+List<string> groceries = new List<string>();
+
+        // Adding grocery items using List.Add()
+        groceries.Add("Milk");
+        groceries.Add("Bread");
+        groceries.Add("Eggs");
+        groceries.Add("Apples");
+        groceries.Add("Rice");
