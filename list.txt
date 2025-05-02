@@ -1,0 +1,14 @@
+
+List<string> groceryList = new List<string>();
+
+        groceryList.Add("Milk");
+        groceryList.Add("Bread");
+        groceryList.Add("Eggs");
+        groceryList.Add("Rice");
+        groceryList.Add("Apples");
+
+        Console.WriteLine("Grocery List:");
+        foreach (string item in groceryList)
+        {
+            Console.WriteLine("- " + item);
+        }
